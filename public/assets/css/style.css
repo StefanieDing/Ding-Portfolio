@@ -4,7 +4,7 @@ body {
   background-color: #81c784;
 }
 
-h5{
+h5, p{
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
 }
