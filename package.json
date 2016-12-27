@@ -1,0 +1,29 @@
+{
+  "name": "Ding-Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanieDing/Ding-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "Stefanie Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanieDing/Ding-Portfolio/issues"
+  },
+  "homepage": "https://github.com/StefanieDing/Ding-Portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "engines": {
+    "node": "6.5.0"
+  }
+}

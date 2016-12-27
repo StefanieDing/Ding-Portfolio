@@ -1,0 +1,24 @@
+body {
+  color: white;
+  font-family: 'Francois One', sans-serif;
+  background-color: #81c784;
+}
+
+h5{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.row{
+  padding: 10px;
+}
+
+.profilePic{
+  margin: 20px;
+}
+
+.darkerFont{
+  color: #212121;
+}
+
+
+
