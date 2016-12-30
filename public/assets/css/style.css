@@ -4,21 +4,50 @@ body {
   background-color: #81c784;
 }
 
-h5, p{
+h5, p {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
 }
-.row{
+.row {
   padding: 10px;
 }
 
-.profilePic{
+.profilePic {
   margin: 20px;
 }
 
-.darkerFont{
+.darkerFont {
   color: #212121;
 }
 
+.btn-outline {
+  color: white;
+  font-size: 20px;
+  border: solid 2px white;
+  background: transparent;
+  transition: all 0.3s ease-in-out;
+  margin-top: 15px;
+}
+.btn-social {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 20px;
+  line-height: 45px;
+}
+
+.list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+.list-inline > li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+}
 
 
